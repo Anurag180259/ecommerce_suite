@@ -147,7 +147,7 @@ For example:
 ### MCP Server
 
 **Repository:**  
-[PLACEHOLDER — MCP SERVER GITHUB LINK]
+[Mcp server repository](https://github.com/Anurag180259/ecommerce_suite_mcp_server)
 
 The MCP server is built using Python and the MCP SDK.
 
