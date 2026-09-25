@@ -54,7 +54,7 @@ View Orders
 
 The application follows MuleSoft's API-led connectivity approach, with an MCP layer sitting on top of the backend.
 
-![E-Commerce Suite Architecture](architecture/architecture.png)
+![E-Commerce Suite Architecture](Architecture/E-commerce suite system architecture.png)
 
 ### High-Level Flow
 
