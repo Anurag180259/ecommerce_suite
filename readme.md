@@ -313,9 +313,16 @@ The project is primarily intended as a portfolio project demonstrating:
 
 ---
 
-## Author
-
-**Anurag**
+## Contact
 
 **LinkedIn:** [Linkedin profile link](www.linkedin.com/in/anurag-ninave-6287a6213)
 
+## Support
+
+For issues, questions, or contributions, please refer to the main project repository.
+
+---
+
+**Last Updated:** September 2026
+**Version:** 1.0
+**Maintained by:** Anurag Ninave
