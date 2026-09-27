@@ -30,7 +30,7 @@ The goal was simple:
 
 ## Demo
 
-**[PLACEHOLDER — ADD DEMO VIDEO LINK]**
+[Demo Video Link](https://youtu.be/FEaFuHyW0io)
 
 The complete demo shows a buyer journey performed through natural language:
 
