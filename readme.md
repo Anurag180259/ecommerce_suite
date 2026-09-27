@@ -207,11 +207,11 @@ The project is divided into multiple repositories based on the API-led architect
 
 | Component | Description | Repository |
 |---|---|---|
-| Experience API | Consumer-facing e-commerce API | [PLACEHOLDER] |
-| Process API | Business logic and orchestration | [PLACEHOLDER] |
-| Database API | Database access layer | [PLACEHOLDER] |
-| Mock Payment API | Mock payment service | [PLACEHOLDER] |
-| MCP Server | Python MCP server exposing e-commerce capabilities | [PLACEHOLDER] |
+| MCP Server | Python MCP server exposing e-commerce capabilities | [Repository link](https://github.com/Anurag180259/ecommerce_suite_mcp_server) |
+| Experience API | Consumer-facing e-commerce API | [Repository link](https://github.com/Anurag180259/ecommerce_suite_experience_api) |
+| Process API | Business logic and orchestration | [Repository link](https://github.com/Anurag180259/ecommerce_suite_process_api) |
+| Database API | Database access layer | [Repository link](https://github.com/Anurag180259/ecommerce_suite_database_api) |
+| Mock Payment API | Mock payment service | [Repository link](https://github.com/Anurag180259/ecommerce_suite_mock_payment_api) |
 
 ---
 
@@ -253,16 +253,15 @@ The backend follows a layered API-led architecture.
 ### Experience Layer
 
 The Experience layer exposes APIs designed around the needs of the consumer-facing application.
-
-**Experience API Repository:**  
-[PLACEHOLDER — EXPERIENCE API REPOSITORY LINK]
+ 
+[Experience API repository](https://github.com/Anurag180259/ecommerce_suite_experience_api)
 
 ### Process Layer
 
 The Process layer contains business logic and orchestrates interactions between different system APIs.
 
 **Process API Repository:**  
-[PLACEHOLDER — PROCESS API REPOSITORY LINK]
+[Process API repository](https://github.com/Anurag180259/ecommerce_suite_process_api)
 
 ### System Layer
 
@@ -274,10 +273,10 @@ The project currently contains:
 - Mock Payment API
 
 **Database API Repository:**  
-[PLACEHOLDER — DATABASE API REPOSITORY LINK]
+[Database API repository](https://github.com/Anurag180259/ecommerce_suite_database_api)
 
 **Mock Payment API Repository:**  
-[PLACEHOLDER — MOCK PAYMENT API REPOSITORY LINK]
+[Mock Payment API repository](https://github.com/Anurag180259/ecommerce_suite_mock_payment_api)
 
 ---
 
@@ -287,22 +286,13 @@ The MuleSoft applications are deployed to CloudHub 2.0.
 
 The MCP server runs separately as a Python application and communicates with the deployed Experience API through the API proxy.
 
-**CloudHub / Deployment Details:**  
-[PLACEHOLDER — DEPLOYMENT DOCUMENTATION LINK]
-
 ---
 
 ## Project Walkthrough
 
 For a detailed explanation of how the project was designed, the engineering decisions behind it, and the problems encountered while building it:
 
-**[PLACEHOLDER — MEDIUM ARTICLE LINK]**
-
----
-
-## Video
-
-**[PLACEHOLDER — PROJECT DEMO VIDEO LINK]**
+[Medium Article Link](https://medium.com/@anuragninawe1802/how-i-built-an-e-commerce-platform-that-works-without-a-frontend-just-natural-language-and-claude-3e1fecbd3c72?sharedUserId=anuragninawe1802)
 
 ---
 
@@ -327,16 +317,5 @@ The project is primarily intended as a portfolio project demonstrating:
 
 **Anurag**
 
-Software Developer interested in:
+**LinkedIn:** [Linkedin profile link](www.linkedin.com/in/anurag-ninave-6287a6213)
 
-- Backend Engineering
-- API Integrations
-- AI-powered applications
-- MCP
-- Cloud technologies
-
-**LinkedIn:** [PLACEHOLDER — LINKEDIN LINK]
-
-**GitHub:** [PLACEHOLDER — GITHUB PROFILE LINK]
-
-**Medium:** [PLACEHOLDER — MEDIUM PROFILE LINK]
